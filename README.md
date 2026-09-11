@@ -27,5 +27,5 @@ I bridge rigorous theoretical foundations with demanding on-site engineering exe
 
 ### Let's Connect
 
-* **LinkedIn:** : linkedin.com/in/abdulaziz-alomayrah-598b5a379
-* **Email:** : AZ.ALOMAYRAH@GMAIL.COM
+* **LinkedIn:**  linkedin.com/in/abdulaziz-alomayrah-598b5a379
+* **Email:**  AZ.ALOMAYRAH@GMAIL.COM
