@@ -1,0 +1,26 @@
+# NextGen Fuel: Industrial Carbon Capture & Electro-Catalytic Synthetic Fuel Conversion
+
+NextGen Fuel is a clean-tech initiative focused on transforming point-source industrial $\text{CO}_2$ emissions into sustainable synthetic fuels, including e-methanol, ethanol, and syngas. By integrating advanced carbon capture with electrochemical reduction and catalytic hydrogenation pathways, the project repurposes industrial emissions into high-value chemical feedstocks and alternative drop-in fuels.
+
+This initiative directly supports the **Circular Carbon Economy (CCE)** framework and aligns with **Saudi Arabia’s Vision 2030** and the **Saudi Green Initiative (SGI)** by tackling heavy-industry decarbonization.
+
+---
+
+### Core Objectives
+* **Industrial Decarbonization:** Capture and sequester $\text{CO}_2$ directly from high-emission industrial point sources.
+* **Catalytic & Electrochemical Synthesis:** Leverage solid-state catalysts and electrochemical cells to reduce $\text{CO}_2$ and synthesize alternative hydrocarbon fuels.
+* **Energy Storage & Grid Integration:** Serve as a chemical energy storage vector by utilizing surplus renewable electricity to power synthesis units.
+* **Circular Economy:** Close the industrial carbon loop by transforming environmental liabilities into scalable energy assets.
+
+---
+
+### Technical Architecture & Process Flow
+1. **Flue Gas Treatment & Purification:** Separation and purification of $\text{CO}_2$ from flue streams via chemical absorption.
+2. **Green Hydrogen Coupling:** Generation of $\text{H}_2$ feedstocks via water electrolysis powered by renewable energy inputs.
+3. **Electro-Catalytic Conversion:** Direct reduction of $\text{CO}_2$ to syngas ($\text{CO} + \text{H}_2$) using gas-diffusion electrodes.
+4. **Thermocatalytic Upgrading:** Catalytic hydrogenation over copper/zinc-oxide/alumina ($\text{Cu/ZnO/Al}_2\text{O}_3$) catalysts to yield e-methanol and advanced liquid hydrocarbons.
+
+---
+
+### Institutional Collaboration & Industry Training
+Developed with technical insights and operational methodologies cultivated through practical engagement with the **Energy and Water Academy (EWA)** in partnership with **ACWA Power**. The framework incorporates industrial standards in process engineering, utility integration, SCADA monitoring, and rigorous system reliability essential for utility-scale energy deployments.
