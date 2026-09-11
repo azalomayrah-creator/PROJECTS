@@ -17,7 +17,7 @@ I bridge rigorous theoretical foundations with demanding on-site engineering exe
 
 ---
 
-### 🛠️ Technical Stack & Tools
+### Technical Stack & Tools
 
 * **Power & Dynamic Simulation:** MATLAB, Simulink, PSS®E
 * **Drafting & Documentation:** AutoCAD, ThinkProject
@@ -25,7 +25,7 @@ I bridge rigorous theoretical foundations with demanding on-site engineering exe
 
 ---
 
-### 🌐 Let's Connect
+### Let's Connect
 
 * **LinkedIn:** : linkedin.com/in/abdulaziz-alomayrah-598b5a379
 * **Email:** : AZ.ALOMAYRAH@GMAIL.COM
